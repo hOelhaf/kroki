@@ -39,6 +39,8 @@ types = {
     "structurizr": "structurizr",
     "seqdiag": "seqdiag",
     "svgbob": "svgbob",
+    "symbolator": "symbolator",
+    "tikz":"tikz",
     "umlet": "umlet",
     "vega": "vega",
     "vegalite": "vegalite",
